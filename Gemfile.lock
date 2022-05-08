@@ -277,6 +277,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages (~> 226)
+  jekyll
   jekyll-feed
   jekyll-gist
   jekyll-github-metadata
