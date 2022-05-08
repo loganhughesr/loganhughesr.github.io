@@ -30,9 +30,10 @@ baseurl: ""
 
 # Navigation menu
 navigation_links:
-  - title: Blog
+  - title: Portfolio
     url: /
-
+  - title: Blog
+    url: /blog
   - title: About
     url: /about
 
@@ -40,10 +41,10 @@ navigation_links:
 footer_links:
   - title: Twitter
     url: https://twitter.com/jekyllrb
-    icon: fa fa-twitter-square
+    icon: fa fa-twitter
   - title: Instagram
     url: https://instagram.com/loganhughesaudio
-    icon: fa fa-github-square
+    icon: fa fa-instagram
 
 # Enter your copyright text if you wish to override the default one.
 #copyright: "This site is made with <3 by *me, myself, and I*."
@@ -72,7 +73,7 @@ kramdown:
 
 # Pagination
 paginate: 5
-paginate_path: "/page/:num/"
+paginate_path: "/blog/page/:num/"
 
 # Set the Sass partials directory, as we're using @imports
 sass:
