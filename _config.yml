@@ -47,7 +47,7 @@ footer_links:
     icon: fa fa-instagram
 
 # Enter your copyright text if you wish to override the default one.
-#copyright: "This site is made with <3 by *me, myself, and I*."
+# copyright: "This site is made with <3 by *me, myself, and I*."
 
 # Time zone
 timezone: null
