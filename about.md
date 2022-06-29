@@ -1,12 +1,12 @@
 ---
 layout: page
-title: About
+title: 
 permalink: /about
 ---
 
 I'm a Video Game SFX Artist from Michigan! Thanks for checking out my page!
 
-Growing up, I played piano and composed music. I also really liked playing video games, and put a lot of hours into my Nintendo DS games like Mario Kart and Pokemon HeartGold. I wanted to study music and sound in college, and during my second year of university, I discovered video game audio. I joined a student-run game development club called <a href="https://wolverinesoft-studio.itch.io/">WolverineSoft Studio</a>, at the recommendation of a friend. I didn't know anything about sound for games then, but I loved tinkering with synthesizers and creating experimental new sounds in my music.
+Growing up, I played piano and composed music. I also really liked playing video games, and put a lot of hours into my Nintendo DS games like Rhythm Heaven and Pokemon HeartGold. I wanted to study music and sound in college, and during my second year of university, I discovered video game audio. I joined a student-run game development club called <a href="https://wolverinesoft-studio.itch.io/">WolverineSoft Studio</a>, at the recommendation of a friend. I didn't know anything about sound for games then, but I loved tinkering with synthesizers and creating experimental new sounds in my music.
 
 Once I created my first sound effects for a WolverineSoft Studio game, I realized the sound design process was extremely creative, and I thrived in it. A few projects later, I had dove into audio implementation, where I learned that effectively implemented dynamic audio is just as important as having good sound effects!
 

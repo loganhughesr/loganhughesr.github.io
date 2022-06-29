@@ -30,10 +30,10 @@ baseurl: ""
 
 # Navigation menu
 navigation_links:
-  - title: Portfolio
+  - title: Demo Reel
     url: /
-  - title: Blog
-    url: /blog
+  - title: Instruments
+    url: /instruments
   - title: About
     url: /about
 
@@ -42,9 +42,9 @@ footer_links:
   - title: Twitter
     url: https://twitter.com/loganhulogan
     icon: fa fa-twitter
-  - title: Instagram
-    url: https://instagram.com/loganhughesaudio
-    icon: fa fa-instagram
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/logan-hughes-722958160
+    icon: fa fa-linkedin
 
 # Enter your copyright text if you wish to override the default one.
 # copyright: "This site is made with <3 by *me, myself, and I*."
