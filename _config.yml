@@ -30,12 +30,12 @@ baseurl: ""
 
 # Navigation menu
 navigation_links:
-  - title: Demo Reel
+  - title: Game Audio
     url: /
   - title: Instruments
     url: /instruments
-  - title: About
-    url: /about
+  - title: Bio
+    url: /Bio
 
 # Footer icons
 footer_links:
