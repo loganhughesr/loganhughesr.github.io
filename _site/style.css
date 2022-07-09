@@ -1,10 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Jura:wght@300;400;500;600;700&family=Monofett&display=swap");
 html {
   font-size: 100%;
 }
 
 body {
   background: #FFFFFF;
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Roboto, "Droid Sans", Arimo, "Helvetica Neue", Helvetica, "Liberation Sans", Arial, Ubuntu, "DejaVu Sans", "Segoe UI Symbol", "Segoe UI Emoji", "Apple Color Emoji", sans-serif;
+  font-family: 'Jura', sans-serif;
   font-weight: 400;
   font-size: 18px;
   line-height: 1.66666666667;
@@ -43,7 +44,7 @@ ul, ol, dl, figure,
 h1, h2, h3, h4, h5, h6 {
   margin: 01em 0 15px;
   color: #222222;
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Roboto, "Droid Sans", Arimo, "Helvetica Neue", Helvetica, "Liberation Sans", Arial, Ubuntu, "DejaVu Sans", "Segoe UI Symbol", "Segoe UI Emoji", "Apple Color Emoji", sans-serif;
+  font-family: 'Jura', sans-serif;
   font-weight: 700;
   line-height: 1.66666666667;
 }
@@ -439,9 +440,9 @@ a[href^="#fnref:"] {
 .site-name {
   margin: 0;
   color: #333333;
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Roboto, "Droid Sans", Arimo, "Helvetica Neue", Helvetica, "Liberation Sans", Arial, Ubuntu, "DejaVu Sans", "Segoe UI Symbol", "Segoe UI Emoji", "Apple Color Emoji", sans-serif;
+  font-family: 'Monofett', cursive;
   font-weight: 300;
-  font-size: 28px !important;
+  font-size: 48px !important;
   letter-spacing: 01px;
 }
 .site-name a:hover {
@@ -455,6 +456,7 @@ a[href^="#fnref:"] {
 .site-description {
   margin: -05px 0 0 0;
   color: #666666;
+  font-family: 'Jura', sans-serif;
   font-size: 16px !important;
 }
 @media screen and (max-width: 640px) {
@@ -464,7 +466,7 @@ a[href^="#fnref:"] {
 }
 
 nav {
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Roboto, "Droid Sans", Arimo, "Helvetica Neue", Helvetica, "Liberation Sans", Arial, Ubuntu, "DejaVu Sans", "Segoe UI Symbol", "Segoe UI Emoji", "Apple Color Emoji", sans-serif;
+  font-family: 'Jura', sans-serif;
   font-size: 18px !important;
 }
 @media screen and (max-width: 640px) {
