@@ -4,6 +4,8 @@ title:
 permalink: /bio
 ---
 
+<img src="profile_circle.png" alt="Photo of Logan" class="center"> 
+
 I'm a Video Game SFX Artist from Michigan! Thanks for checking out my page!
 
 Growing up, I played piano, composed, and recorded music. I also really liked playing video games, and put many hours into my Nintendo DS titles like Rhythm Heaven and Pokemon HeartGold. I went to study music and sound engineering in college, and during my second year of university, I discovered video game audio. I joined a student-run game development club called <a href="https://wolverinesoft-studio.itch.io/">WolverineSoft Studio</a>, at the recommendation of a friend. I didn't know anything about sound for games then, but I loved tinkering with synthesizers and creating experimental new sounds in my music.
