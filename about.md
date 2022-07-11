@@ -4,7 +4,7 @@ title:
 permalink: /bio
 ---
 
-<img src="profile_circle_smaller.png" width="320" height="320" alt="Photo of Logan" class="center"> 
+<img src="logan_portrait.png" width="320" height="320" alt="Photo of Logan" class="center"> 
 
 I'm a Video Game SFX Artist from Michigan! Thanks for checking out my page!
 
