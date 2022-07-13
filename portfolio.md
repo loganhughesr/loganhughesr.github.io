@@ -8,21 +8,25 @@ permalink: /
 
 # Flickernaut FMOD Walkthrough
 
-# Caduceus FMOD Walkthrough
+An overview of the FMOD parameters I used in Flickernaut, as well as some of the scripts I created to play certain FMOD events.
 
-# Bloom Wwise Walkthrough
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/729397237?h=d87e3f28d9&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Flickernaut FMOD Walkthrough"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-# Game Jams
+<!-- # Bloom Wwise Walkthrough
+
+# Crowds Sound Design -->
 
 # Skills
 
 |:-:|:-:|:-:|
 |Reaper|FMOD|Wwise|
-|Izotope RX|Confluence|Jira|
+|Izotope RX|Git|Jira|
 |Max/MSP|C#|Unity|
 
 <!-- What else to add to this page?
 Implementation overview of caduceus and flickernaut would be good.
+At least include Flickernaut and Bloom Walkthroughs
+Game Jam titles would be nice to have.
 Bloom implementation overview would be a nice-to-have -->
 
 
