@@ -14,7 +14,7 @@ Growing up, I played piano, composed, and recorded music. I also liked playing v
 
 During my spare time, I might be playing a board game, listening to birds, reading a book, or as of recently, watching ubanist youtube content (Not Just Bikes). 
 
-Feel free to reach out to me on Twitter or shoot me an email at lhughesaudio@protonmail.com. I'd be happy to chat! I've recently graduated from college and am open to work.
+**Feel free to reach out to me on Twitter or shoot me an email at lhughesaudio@protonmail.com.** I'd be happy to chat! I've recently graduated from college and am open to work.
 
 <!---
 
