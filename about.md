@@ -8,10 +8,12 @@ permalink: /bio
 
 **I'm a Video Game SFX Artist from Michigan!** Thanks for checking out my page!
 
-Growing up, I played piano, composed, and recorded music. I also liked playing video games, and put many hours into Nintendo DS titles like Rhythm Heaven and Pokemon HeartGold. I went to study music and sound engineering in college thinking I would work in a recording studio, but then, **during my second year of university, I discovered game audio.** I joined a student-run game development club called <a href="https://wolverinesoft-studio.itch.io/">WolverineSoft Studio</a>, at the recommendation of a friend. Even I didn't know anything about game audio or game development, I loved tinkering with synthesizers and creating experimental new sounds in my music. After I created my first sound effects for a WolverineSoft Studio game, **I realized that sound design for games is extremely creative, and I thrived in it.**
+<!-- Origin story is good!! can be editted down-->
+Growing up, I played piano, composed, and recorded music. I also played video games and sunk many hours into Nintendo DS titles like Rhythm Heaven and Pokemon HeartGold. Thinking I would work in a recording studio, I went to study music and sound engineering in college. **During my second year of university, I discovered game audio** by joining a student-run game development club called <a href="https://wolverinesoft-studio.itch.io/">WolverineSoft Studio</a>. Even though I didn't know anything about game audio or game development, I loved tinkering with synthesizers and creating weird sounds. Once I created my first sound effects for WolverineSoft Studio, **I realized that I thrived in the extremely creative nature of sound design and game development, so I decided to take it up as a career.** 
 
-**Great game audio is critical to an immersive player experience.** It is a facet of production in the earlier phases of development when brainstorming ideas for making environments, player characters, NPCs, and more. **I love how sound effects influence game development and players' interactions with games.**
+<!-- kevin says this is a throw-away paragraph. a bit of a generalist bio. Josh adam bell says add more about what you want to do in game audio. IE i like programming synths and sound design. or I really like   -->
+I'm always blown away by the innovation and personality of indie games. So many unique ideas and stories are brought to light because of them, and I want to contribute to those stories with sound and create those moments that make my hair stand on end or get me to empathize with the characters in-game.
 
-During my spare time, I might be playing a board game, listening to birds, reading a book, or as of recently, watching ubanist youtube content (Not Just Bikes). 
+During my spare time, I might be playing a board game, listening to birds, reading a book, or as of recently, watching urbanist Youtube content (Not Just Bikes). 
 
-**Feel free to reach out to me on Twitter or shoot me an email at lhughesaudio@protonmail.com.** I'd be happy to chat! I've recently graduated from college and am open to work.
+**Feel free to reach out to me on Twitter or shoot me an email at lhughesaudio@protonmail.com.** I'd be happy to chat!
