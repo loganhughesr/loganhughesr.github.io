@@ -34,6 +34,8 @@ navigation_links:
     url: /
   - title: Instruments
     url: /instruments
+  - title: Film Audio
+    url: /film-audio
   - title: Bio
     url: /bio
 
