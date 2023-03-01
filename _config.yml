@@ -32,10 +32,10 @@ baseurl: ""
 navigation_links:
   - title: Game Audio
     url: /
-  - title: Instruments
-    url: /instruments
   - title: Film Audio
     url: /film-audio
+  - title: Instruments
+    url: /instruments
   - title: Bio
     url: /bio
 
