@@ -6,7 +6,7 @@ permalink: /bio
 
 <img src="profile_border.jpeg" width="320" height="320" alt="Photo of Logan" class="center"> 
 
-**I'm a Video Game SFX Artist from Michigan!** Thanks for checking out my page!
+**I'm a Video Game SFX Artist based in Michigan!** I'm currently working on [Alter Evo at Technical Fiction](https://alterevogame.com/). Thanks for checking out my page!
 
 Growing up, I played piano, composed, and recorded music. I also played video games and sunk many hours into Nintendo DS titles like Rhythm Heaven and Pokemon HeartGold. Thinking I would work in a recording studio, I went to study music and sound engineering in college. 
 
