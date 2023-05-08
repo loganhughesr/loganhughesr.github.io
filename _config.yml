@@ -38,8 +38,8 @@ navigation_links:
     url: /instruments
   - title: Bio
     url: /bio
-  - title: Blog
-    url: /blog
+  # - title: Blog
+  #   url: /blog
 
 # Footer icons
 footer_links:
