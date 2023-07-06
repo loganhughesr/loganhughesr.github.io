@@ -10,8 +10,8 @@ permalink: /
 
 This showcases the cutscenes I worked on in the Alter Evo Demo. I also created sounds for specific 
 
-<iframe src="https://player.vimeo.com/video/843027201?h=66a69473cb" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/843027201">Alter Evo Demo Sound Design</a> from <a href="https://vimeo.com/user120437648">Logan Hughes</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/843027201?h=66a69473cb" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/843027201">Alter Evo Demo Sound Design</a> from <a href="https://vimeo.com/user120437648">Logan Hughes</a> on <a href="https://vimeo.com">Vimeo</a>.</p></div>
 
 # Flickernaut FMOD Walkthrough
 
