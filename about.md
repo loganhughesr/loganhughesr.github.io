@@ -4,7 +4,7 @@ title:
 permalink: /bio
 ---
 
-<img src="profile_border.jpeg" width="320" height="320" alt="Photo of Logan" class="center"> 
+<img src="logan_for_logan-1 square.jpg" width="320" height="320" alt="Photo of Logan" class="center"> 
 
 **I'm a Video Game SFX Artist based in Michigan!** I'm currently working on [Alter Evo at Technical Fiction](https://alterevogame.com/). Thanks for checking out my page!
 
