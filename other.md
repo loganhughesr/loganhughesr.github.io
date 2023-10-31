@@ -8,7 +8,7 @@ These are notable projects of mine that don't necessarily fit on other parts of 
 
 ## FifthWall
 
-A unity package that is a dynamic camera system for musical VR performances. I made this with direction from Professor [Anil Camci](https://anilcamci.github.io/fifthwall/) from the University of Michigan. The repository is currently private, but it will be released sometime soon.
+A unity package that is a dynamic camera system for musical VR performances. I made this with direction from Professor [Anil Camci](https://anilcamci.github.io/fifthwall/) from the University of Michigan with funding from [Arts Initiative](https://arts.umich.edu/arts-initiative/research/pilot-projects/bringing-down-the-fifth-wall-a-system-for-delivering-vr-performances-to-large-audiences/). The repository is currently private, but it will be released sometime soon.
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/876918281?badge=0&amp;autopause=0&amp;quality_selector=1&amp;progress_bar=1&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="FifthWall Showcase"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
