@@ -4,7 +4,7 @@ title:
 permalink: /bio
 ---
 
-<img src="headshot.jpg" width="320" height="320" alt="Photo of Logan" class="center"> 
+<img src="headshot.JPG" width="320" height="320" alt="Photo of Logan" class="center"> 
 
 **I'm a Sound Designer based in Chicago!** Thanks for checking out my page!
 
