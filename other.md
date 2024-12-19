@@ -7,7 +7,7 @@ permalink: /other
 These are notable projects of mine that don't necessarily fit on other parts of my website.
 ## Aulphon Logistics
 
-I'm half of this live hardware electronic music duo (electro/dance/experimental/abstract/drone). Listen to our sounds [here.](aulphonlogistics.net) Formally known as [o0.](o0music.bandcamp.com)
+I'm half of this live hardware electronic music duo (electro/dance/experimental/abstract/drone). Listen to our sounds [here.](aulphonlogistics.net) Previously known as [o0.](o0music.bandcamp.com)
 
 ## FifthWall
 

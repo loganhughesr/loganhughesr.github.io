@@ -4,16 +4,14 @@ title:
 permalink: /bio
 ---
 
-<img src="logan_for_logan-1 square.jpg" width="320" height="320" alt="Photo of Logan" class="center"> 
+<img src="headshot.jpg" width="320" height="320" alt="Photo of Logan" class="center"> 
 
-**I'm a Video Game SFX Artist based in Michigan!** I'm currently working on [Alter Evo at Technical Fiction](https://alterevogame.com/). Thanks for checking out my page!
+**I'm a Sound Designer based in Chicago!** Thanks for checking out my page!
 
-Growing up, I played piano, composed, and recorded music. I also played video games and sunk many hours into Nintendo DS titles like Rhythm Heaven and Pokemon HeartGold. Thinking I would work in a recording studio, I went to study music and sound engineering in college. 
+Growing up, I played piano and sunk lots time into many Nintendo DS games. I didn't think much of those games, even though they were perfect for letting the days drift by.
 
-**My second year of university was when I discovered game audio.** I joined a student-run game development club called [WolverineSoft Studio](https://wolverinesoft-studio.itch.io/). Even though game development was new to me, I loved tinkering with synthesizers and creating weird sounds which turned out to be a useful game audio skill. Once I created my first sound effects for WolverineSoft Studio, **I realized that I thrived in game audio and game development, so took it up as a career.** 
+I now see that games are interactive simulations that have the ability to deliver unique stories of human experience. I use sound as a vital story-telling device to paint a whole picture. **Sharing messages through games will be a part of how we shape our understanding of the world. I strive to be a part of this conversation.**
 
-I am always intrigued by indie games because of their innovation and character. They bring so many great ideas and stories to light. **I want to build those stories with sound for other people so they can experience something remarkable.**
+In my spare time, I'm making electronic music, biking, birding, checking out record stores, or attempting to make it through a book.
 
-During my spare time, I might be playing a board game, learning about birds, reading a book, or as of recently, watching urbanist Youtube content (Not Just Bikes)!
-
-**Feel free to reach out to me on Twitter or shoot me an email at lhughesaudio@protonmail.com.** I'd be happy to chat!
+**Feel free to reach out and send me an email at lhughesaudio@protonmail.com.** I'd be happy to chat!
